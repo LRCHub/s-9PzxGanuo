@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "M",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2025-12-02T08:05:51.724886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Allegro, Opus 3.3 a.m.",
+      "artist": "陈奕迅",
+      "has_synced": true,
+      "path": "select/01_Allegro,_Opus_3.3_a.m._陈奕迅.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "3 a.m.",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/02_3_a.m._Eminem.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Evil - M-Factor Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/03_Evil_-_M-Factor_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fly, Baba (m/ Ras Steven)",
+      "artist": "Karpe Diem",
+      "has_synced": false,
+      "path": "select/04_Fly,_Baba_(m__Ras_Steven)_Karpe_Diem.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Imperial Tyranny (Feat. King M",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": true,
+      "path": "select/05_Imperial_Tyranny_(Feat._King_M_Jedi_Mind_Tricks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kleiner Nager (m. Bo & Tobi)",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/06_Kleiner_Nager_(m._Bo_&_Tobi)_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "21 M◊◊N WATER",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/07_21_M◊◊N_WATER_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "M.I.S.S. I",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/08_M.I.S.S._I_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "M.I.S.S. I [*]",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/09_M.I.S.S._I_[_]_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Naomi (m/ Fadlabi)",
+      "artist": "Karpe Diem",
+      "has_synced": true,
+      "path": "select/10_Naomi_(m__Fadlabi)_Karpe_Diem.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "P.I.M.P. (remix)",
+      "artist": "50 Cent feat. Snoop Dogg",
+      "has_synced": false,
+      "path": "select/11_P.I.M.P._(remix)_50_Cent_feat._Snoop_Dogg.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ready for War (feat. M.O.P.)",
+      "artist": "Busta Rhymes feat. M.O.P.",
+      "has_synced": true,
+      "path": "select/12_Ready_for_War_(feat._M.O.P.)_Busta_Rhymes_feat._M.O.P..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "S.M.U.D.O. Ich bin halt so - 120 BPM",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/13_S.M.U.D.O._Ich_bin_halt_so_-_120_BPM_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "S.M.U.D.O. Ich Bin Halt So",
+      "artist": "Die Fantastischen Vier",
+      "has_synced": true,
+      "path": "select/14_S.M.U.D.O._Ich_Bin_Halt_So_Die_Fantastischen_Vier.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Skavanker (m/ Dr. S)",
+      "artist": "Karpe Diem",
+      "has_synced": true,
+      "path": "select/15_Skavanker_(m__Dr._S)_Karpe_Diem.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Skavanker (m\u0000DR. S)",
+      "artist": "Karpe Diem",
+      "has_synced": true,
+      "path": "select/16_Skavanker_(m\u0000DR._S)_Karpe_Diem.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sucker M.C.'s (Krush-Groove 1)",
+      "artist": "Run-DMC",
+      "has_synced": true,
+      "path": "select/17_Sucker_M.C.'s_(Krush-Groove_1)_Run-DMC.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Unaccommodating (feat. Young M.A)",
+      "artist": "Eminem feat. Young M.A",
+      "has_synced": true,
+      "path": "select/18_Unaccommodating_(feat._Young_M.A)_Eminem_feat._Young_M.A.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Unaccommodating (feat. Young M.A)",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/19_Unaccommodating_(feat._Young_M.A)_Eminem.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "M",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_M_ウォルピスカーター.txt"
+    }
+  ]
+}
